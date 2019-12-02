@@ -22,7 +22,9 @@ Current completed scripts
 
 
 ### Passowrd Generator ###
-- Compile the code & Run it
+- Compile the code & Run it.
+- The code automatically creates a password everytime you start it
+- Press the Button in bottom-right to copy the generated password in your clipboard
 - Voilà! you have generated a password!
 
 
